@@ -19,7 +19,7 @@ testCase = int( input() ) if True else 1
 for _ in range (testCase) :
     solve()
 
-# the constarins are low n(2 ≤ n ≤ 3105) -> O( n2 ) = 9e6 [ we can go up to 1e9 !! ] 
+# the constraints are low n(2 ≤ n ≤ 3105) -> O( n2 ) = 9e6 [ we can go up to 1e9 !! ] 
 
 #   We have an array a=[a1,a2,a3,…,an]
 #   Suppose we performed the operations from left to right, to see how operations affect the array.
