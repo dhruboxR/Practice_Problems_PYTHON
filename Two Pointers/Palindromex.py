@@ -1,3 +1,4 @@
+# https://codeforces.com/problemset/problem/2227/D
 import sys
 from bisect import bisect_left, bisect_right
 input = sys.stdin.readline
