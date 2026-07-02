@@ -3,7 +3,7 @@ import sys
 input = sys.stdin.readline
 
 """
-intger is good if it contains only 2 distinct digits 
+integer is good if it contains only 2 distinct digits 
 x - already good 
 y - choose y such that it is good and the mulRes of x * y is also good 
 REPEAT , X | X 
