@@ -6,7 +6,7 @@ input = sys.stdin.readline
 """
 gcd(lcm(a,b),lcm(b,c)) = gcd(a,c)
 -  if we can make lcm(a, b) = a AND lcm(b, c) = c Then we can make gcd(a, c) = gcd(a, c)
--       THIS CONTIDITION IS ONLY POSSIBLE WHEN A AND C BOTH ARE DIVISIBLE BY B 
+-       THIS CONDITION IS ONLY POSSIBLE WHEN A AND C BOTH ARE DIVISIBLE BY B 
 
 SO FOR A CERTAIN RANGE X :
 -   we have florr(x / b) multiples of B 
