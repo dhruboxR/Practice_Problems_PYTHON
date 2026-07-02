@@ -9,10 +9,10 @@ gcd(lcm(a,b),lcm(b,c)) = gcd(a,c)
 -       THIS CONDITION IS ONLY POSSIBLE WHEN A AND C BOTH ARE DIVISIBLE BY B 
 
 SO FOR A CERTAIN RANGE X :
--   we have florr(x / b) multiples of B 
+-   we have floor(x / b) multiples of B 
 
 -    CHOICES FOR a = floor(x/b)
--    CHOICES FOR b = florr(x/b) 
+-    CHOICES FOR b = floor(x/b) 
 
 so at each iteration we get squared number of wyas 
 """
