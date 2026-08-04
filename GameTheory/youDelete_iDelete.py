@@ -1,8 +1,9 @@
 # https://codeforces.com/problemset/problem/2248/A
-
 import sys
 import math
 input = sys.stdin.readline
+
+# read the statement carefully 
 
 def solve():
     string = input().strip()
